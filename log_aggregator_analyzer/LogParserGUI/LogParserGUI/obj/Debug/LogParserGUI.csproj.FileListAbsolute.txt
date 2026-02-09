@@ -1,0 +1,10 @@
+C:\Users\Black\IdeaProjects\Personal-Projects\In-progress\log_aggregator_analyzer\LogParserGUI\LogParserGUI\bin\Debug\LogParserGUI.exe.config
+C:\Users\Black\IdeaProjects\Personal-Projects\In-progress\log_aggregator_analyzer\LogParserGUI\LogParserGUI\bin\Debug\LogParserGUI.exe
+C:\Users\Black\IdeaProjects\Personal-Projects\In-progress\log_aggregator_analyzer\LogParserGUI\LogParserGUI\bin\Debug\LogParserGUI.pdb
+C:\Users\Black\IdeaProjects\Personal-Projects\In-progress\log_aggregator_analyzer\LogParserGUI\LogParserGUI\obj\Debug\LogParserGUI.csproj.AssemblyReference.cache
+C:\Users\Black\IdeaProjects\Personal-Projects\In-progress\log_aggregator_analyzer\LogParserGUI\LogParserGUI\obj\Debug\LogParserGUI.Form1.resources
+C:\Users\Black\IdeaProjects\Personal-Projects\In-progress\log_aggregator_analyzer\LogParserGUI\LogParserGUI\obj\Debug\LogParserGUI.Properties.Resources.resources
+C:\Users\Black\IdeaProjects\Personal-Projects\In-progress\log_aggregator_analyzer\LogParserGUI\LogParserGUI\obj\Debug\LogParserGUI.csproj.GenerateResource.cache
+C:\Users\Black\IdeaProjects\Personal-Projects\In-progress\log_aggregator_analyzer\LogParserGUI\LogParserGUI\obj\Debug\LogParserGUI.csproj.CoreCompileInputs.cache
+C:\Users\Black\IdeaProjects\Personal-Projects\In-progress\log_aggregator_analyzer\LogParserGUI\LogParserGUI\obj\Debug\LogParserGUI.exe
+C:\Users\Black\IdeaProjects\Personal-Projects\In-progress\log_aggregator_analyzer\LogParserGUI\LogParserGUI\obj\Debug\LogParserGUI.pdb
